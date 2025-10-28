@@ -184,7 +184,7 @@ Copy code
 Author: Vinil P
 Project Type: Expo React Native App
 Focus Areas: Firebase, Google Auth, UI Design, Mobile Development
-Contact: (Add your GitHub or portfolio link here)
+
 
 🏁 License
 This project is open for personal and educational use only.
