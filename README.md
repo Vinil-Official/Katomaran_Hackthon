@@ -3,6 +3,8 @@
 ## 📱 Overview
 **MyProject** is a visually rich mobile application built using **React Native (Expo)** with **Firebase Authentication** and **Google Sign-In**.  
 It provides a modern UI with smooth animations, background imagery, and robust authentication — ideal for journaling, mood tracking, or productivity workflows.
+##APK LINK**https://drive.google.com/file/d/1ZBxQJPGQZS_B_V0c0bVF-vc3NyT3jyxx/view?usp=sharing
+
 
 ---
 
